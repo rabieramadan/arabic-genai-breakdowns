@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite the accompanying paper.
+title: >-
+  Comparing learner reported breakdowns with measured model failure in Arabic
+  generative AI use - data, code and evaluation suite
+authors:
+  - family-names: Torky
+    given-names: Fayez Sobhy Abdelsalam
+    orcid: https://orcid.org/0000-0002-7615-268X
+    affiliation: Department of Arabic Language, Sultan Qaboos University, Muscat, Oman
+  - family-names: Hassanein
+    given-names: Mohamed Mustafa
+    orcid: https://orcid.org/0000-0003-3388-6584
+    affiliation: Department of Arabic Language, Sultan Qaboos University, Muscat, Oman
+  - family-names: Ramadan
+    given-names: Rabie A.
+    orcid: https://orcid.org/0000-0002-0281-9381
+    affiliation: AI Applications Chair, University of Nizwa, Nizwa, Oman
+  - family-names: Al Subhi
+    given-names: Sundos
+    orcid: https://orcid.org/0009-0008-7226-1214
+    affiliation: AI Applications Chair, University of Nizwa, Nizwa, Oman
+license: MIT
+license-url: https://github.com/rabieramadan/arabic-genai-breakdowns/blob/main/LICENSE
+repository-code: https://github.com/rabieramadan/arabic-genai-breakdowns
+keywords:
+  - Arabic natural language processing
+  - generative AI
+  - AI literacy
+  - language education
+  - Universal Dependencies
+  - citation fabrication
+preferred-citation:
+  type: article
+  title: >-
+    Comparing learner reported breakdowns with measured model failure in Arabic
+    generative AI use
+  journal: Discover Artificial Intelligence
+  year: 2026
+  authors:
+    - family-names: Torky
+      given-names: Fayez Sobhy Abdelsalam
+    - family-names: Hassanein
+      given-names: Mohamed Mustafa
+    - family-names: Ramadan
+      given-names: Rabie A.
+    - family-names: Al Subhi
+      given-names: Sundos

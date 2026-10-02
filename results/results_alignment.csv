@@ -1,0 +1,5 @@
+breakdown,student_pct,kappa,measured_metric,measured_best,measured_worst,probe,gap_vs_best
+Weak Arabic grammar / morphology (i'rab),48.2,0.958,"case (i'rab) error rate on UD Arabic-PADT gold, 150 targets",20.0,36.0,E1,-28.2
+Fabricated or missing references,16.3,0.974,"supplied references not usable as given (DOI wrong, or work untraceable in Crossref and OpenAlex)",77.6,88.0,E2,61.3
+Hallucinated literary attribution,8.5,0.902,content supplied for a work verified not to exist,2.6,23.1,E3,-5.9
+Inaccurate / unreliable output (generic),71.6,0.873,POS-tag error rate on gold treebank,8.0,17.3,E1,-63.6

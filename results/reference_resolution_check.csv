@@ -1,0 +1,34 @@
+paper,id,kind,resolves,title,registry
+P2,10.1016/j.caeai.2021.100041,doi,True,Conceptualizing AI literacy: An exploratory review,Crossref
+P2,10.1016/j.caeai.2023.100160,doi,True,To GPT or not GPT? Empowering our students to learn ,Crossref
+P2,10.1016/j.caeai.2024.100294,doi,True,“ChatGPT seems too good to be true”: College student,Crossref
+P2,10.1016/j.caeai.2025.100445,doi,True,Two years of innovation: A systematic review of empi,Crossref
+P2,10.1016/j.caeo.2024.100173,doi,True,A systematic review of AI literacy conceptualization,Crossref
+P2,10.1016/j.ssaho.2025.101310,doi,True,Understanding ChatGPT adoption for data analytics le,Crossref
+P2,10.1038/s41598-023-41032-5,doi,True,Fabrication and errors in the bibliographic citation,Crossref
+P2,10.1109/access.2021.3122977,doi,True,Automatic Methods and Neural Networks in Arabic Text,Crossref
+P2,10.1145/3313831.3376727,doi,True,What is AI Literacy? Competencies and Design Conside,Crossref
+P2,10.1145/3685680,doi,True,Generative AI Literacy: Twelve Defining Competencies,Crossref
+P2,10.1162/coli_a_00402,doi,True,Universal Dependencies,Crossref
+P2,10.1162/qss_a_00022,doi,True,Crossref: The sustainable source of community-owned ,Crossref
+P2,10.18653/v1/2023.emnlp-main.16,doi,True,GPTAraEval: A Comprehensive Evaluation of ChatGPT on,Crossref
+P2,10.18653/v1/2025.emnlp-main.1756,doi,True,TounsiBench: Benchmarking Large Language Models for ,Crossref
+P2,10.2196/52935,doi,True,Evaluation of Large Language Model Performance and R,Crossref
+P2,10.2196/80371,doi,True,Influence of Topic Familiarity and Prompt Specificit,Crossref
+P2,10.24093/awej/ChatGPT.4,doi,True,Navigating the Artificial Intelligence Frontier: Per,Crossref
+P2,10.24093/awej/call10.2,doi,True,Beyond Traditional Language Learning: EFL Student Vi,Crossref
+P2,10.3389/feduc.2024.1325601,doi,True,Unlock the potential for Saudi Arabian higher educat,Crossref
+P2,10.3390/info15110676,doi,True,"Generative AI and Higher Education: Trends, Challeng",Crossref
+P2,10.3390/soc15010006,doi,True,AI Tools in Society: Impacts on Cognitive Offloading,Crossref
+P2,10.48550/arXiv.2407.00146,doi,True,resolves via DataCite; arXiv DOIs are not indexed by Crossref,DataCite
+P2,2205.01833,arxiv,True,"OpenAlex: A fully-open index of scholarly works, aut",arXiv API
+P3,10.1016/j.jjimei.2026.100404,doi,True,Benchmarking Large Language Models on Arabic parsing,Crossref
+P3,10.1109/access.2021.3122977,doi,True,Automatic Methods and Neural Networks in Arabic Text,Crossref
+P3,10.1145/3472295,doi,True,I3rab: A New Arabic Dependency Treebank Based on Ara,Crossref
+P3,10.1162/coli_a_00402,doi,True,Universal Dependencies,Crossref
+P3,10.18653/v1/2023.eval4nlp-1.8,doi,True,Large Language Models As Annotators: A Preliminary E,Crossref
+P3,10.18653/v1/2025.emnlp-main.1756,doi,True,TounsiBench: Benchmarking Large Language Models for ,Crossref
+P3,10.18653/v1/d17-1073,doi,True,Don't Throw Those Morphological Analyzers Away Just ,Crossref
+P3,10.3389/frai.2025.1638743,doi,True,A comparative study of Arabic syntactic analyzers,Crossref
+P3,10.3390/bdcc9020033,doi,True,Large Language Models as Kuwaiti Annotators,Crossref
+P3,2510.13430,arxiv,True,Evaluating Arabic Large Language Models: A Survey of,arXiv API

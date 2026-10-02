@@ -1,0 +1,17 @@
+Reported result,Underlying data,Depends on text coding
+Four dimension means (2.76 / 2.97 / 3.37 / 4.07),28 Likert items,no
+"Aspiration vs application, t(143) = 13.68",Likert composites,no
+"Repeated-measures ANOVA F(3, 429) = 115.53",Likert composites,no
+"Figure 1, competency profile",Likert composites,no
+Cronbach-type item structure / item table,Likert items,no
+Barrier theme prevalence (76.6 / 39.7 / 14.2 / 8.5 %),Q2 + Q6 free text,YES
+Per-theme coder agreement (kappa .39 to 1.00),Q2 + Q6 free text,YES
+"Figure 2, reported breakdowns",Q2 + Q6 free text,YES
+Stance split 27 dependency / 67 conditional / 36 innovation,Q4 free text,YES
+"Stance x competency ANOVA F(2, 127) = 16.77",Q4 codes + Likert,YES (grouping)
+"Figure 3, stance vs competency",Q4 codes + Likert,YES (grouping)
+Calibration logistic models (OR 1.81 / 1.59),theme codes + Likert,YES (outcome)
+Table 2 student-percentage column,theme codes,YES
+"Figure 5, alignment",theme codes + Study 2,YES (one axis)
+"All Study 2 probe results (E1, E2, E3)",model outputs vs gold,no
+"Figure 4, model evaluation",model outputs vs gold,no

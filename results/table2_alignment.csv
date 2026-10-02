@@ -1,0 +1,5 @@
+Reported breakdown,% of 141 respondents reporting it,Coder agreement (kappa),Measured quantity,Best model (%),Worst model (%),Probe
+Weak Arabic grammar / morphology (iʿrāb),48.2,0.958,"case (iʿrāb) error rate on UD Arabic-PADT gold, 150 targets",20.0,36.0,Probe 1
+Fabricated or missing references,16.3,0.974,"supplied references not usable as given (DOI wrong, or work untraceable in Crossref and OpenAlex)",77.6,88.0,Probe 2
+Hallucinated literary attribution,8.5,0.902,content supplied for a work verified not to exist,2.6,23.1,Probe 3
+Inaccurate / unreliable output (generic),71.6,0.873,POS-tag error rate on gold treebank,8.0,17.3,Probe 1

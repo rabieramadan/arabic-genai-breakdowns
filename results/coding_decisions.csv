@@ -1,0 +1,7 @@
+unit,field,decision,rationale,double_coded,flag
+P029,stance+themes,"annotator A re-run returned innovation; T1,T2 - identical to B, no dispute",Initial A return was empty; the unit was re-queried and A's second return matched B exactly. Counts as a double-coded agreeing unit.,yes (A on re-run),"Barrier text opens with 'عدم وجود اداه تجلب معلومات دقيقه عن اللغه العربيه' (no tool supplies accurate Arabic information), arguably T6 in addition to T1; both annotators coded T1,T2. Worth a human look, but it is now a genuine agreement rather than a single reading."
+P108,themes,"adjudicator sided with B (T1,T2,T3,T4)","Split override unit; adjudication went to B, not A.",yes,
+P008/P016/P065/P134,themes,adjudicator sided with A,Split override units resolved in A's favour.,yes,
+P046,stance+themes,"A re-run = dependency; T1,T2 - identical to B, no dispute",Bare-noun stance rule; barrier text describes i'rab failure and inaccurate output.,yes (A on re-run),
+P053,themes,"A re-run = T1,T2,T3; adjudicated to A over B's T2,T3",A adds T1 for 'tafsirat sathiyya aw khati'a' (superficial or wrong interpretations). Stance agreed (conditional).,yes (A on re-run),
+P091,stance+themes,"A re-run = innovation; T1,T3; adjudicated to A over B's conditional; T3,T5","Positive-direction stance with a permission caveat, not use-dependent. Barrier attributes the mismatch to the tool (T1) rather than the student's prompting (T5).",yes (A on re-run),Sits on the T1/T5 boundary that produced 8 of 22 inter-model disputes; priority for human check.

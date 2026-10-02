@@ -1,0 +1,19 @@
+statistic,as_submitted,recomputed_from_uploaded_data,status
+Participants (N),145,145,reproduces
+Awareness & Availability M,2.76,"2.76 (SD 0.89, n=145)",reproduces
+Functional Application M,2.97,"2.97 (SD 0.85, n=144)",reproduces
+Prompting & Appraisal M,3.37,"3.37 (SD 0.73, n=144)",reproduces
+Aspiration & Vision M,4.07,"4.07 (SD 0.84, n=145)",reproduces
+Aspiration vs Application,"t(143)=13.68, p<.001, d_z=1.14","t(143)=13.68, p=9.0e-28, d_z=1.14",reproduces
+Mean difference,1.11,1.11,reproduces
+Repeated-measures ANOVA,"F(3,429)","F(3,429)=115.53, n=144",reproduces
+Q4 substantive responses,141,141 (blank/punctuation/bare yes-no removed),reproduces; rule now documented
+Q4 innovation,61,36,CORRECTED
+Q4 dependency,45,27,CORRECTED
+Q4 conditional,25,67,CORRECTED
+Q4 uncodable (no stance),not reported,15 (14 + 1 unresolved),ADDED - reconciles 145 to analytic n
+Q4 category sum,131 (does not equal 141),"27 + 67 + 36 = 130 coded, plus 15 with no codable stance = 145",FIXED
+Stance x competency ANOVA,"F(2,112)=7.85, p=.001, eta2=.12, n=115","F(2,127)=16.77, p=3.4e-07, eta2=.21, n=130",CORRECTED
+Kruskal-Wallis backup,p=.002,"H=22.89, p=1.1e-05",CORRECTED
+Group means (dep/cond/inn),3.09 / 3.41 / 3.56,2.78 / 3.41 / 3.53,CORRECTED
+Inter-coder reliability,not reported,"Cohen's kappa = 0.718 (raw agreement 80.0%), 29 disagreements resolved by a documented automated third pass; per-record decisions in q4_adjudication_sheet.csv, human confirmation pending",ADDED

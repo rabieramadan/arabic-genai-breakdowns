@@ -1,0 +1,21 @@
+item,in_text,from_data,match
+E1 gold targets,150,150,yes
+E1 POS range,82.7-92.0,82.7-92.0,yes
+E1 case range,64.0-80.0,64.0-80.0,yes
+pooled accusative correct,61.0,61.0,yes
+E2 refs total,177,177,yes
+E2 verified,29 / 16.4%,29 / 16.4%,yes
+E2 wrong identifier,57 / 32.2%,57 / 32.2%,yes
+E2 no trace,91 / 51.4%,91 / 51.4%,yes
+E3 replies,156,156,yes
+E3 strict confabulated,0,0,yes
+E3 wider count,23 / 14.7%,23 / 14.7%,yes
+E3 coder agreement,82.1%,82.1%,yes
+prevalence T1_inaccurate_output,76.6,76.6,yes
+prevalence T2_arabic_grammar_morp,39.7,39.7,yes
+prevalence T4_fabricated_referenc,14.2,14.2,yes
+prevalence T3_literary_misattribu,8.5,8.5,yes
+Table2 E1 best/worst,20.0/36.0,20.0/36.0,yes
+Table2 E2 best/worst,77.6/88.0,77.6/88.0,yes
+Table2 E3 best/worst,2.6/23.1,2.6/23.1,yes
+Table2 E1 best/worst,8.0/17.3,8.0/17.3,yes

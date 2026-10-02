@@ -1,0 +1,10 @@
+theme,coderA,coderB,agreement,kappa
+T1_inaccurate_output,79.0,103.0,0.73,0.429
+T2_arabic_grammar_morphology,53.0,55.0,0.915,0.82
+T3_literary_misattribution,15.0,13.0,0.929,0.604
+T4_fabricated_references,25.0,22.0,0.965,0.872
+T5_prompting_appraisal_skill,6.0,13.0,0.922,0.385
+T6_lack_of_arabic_tools,4.0,11.0,0.95,0.513
+T7_institutional_resistance,2.0,2.0,1.0,1.0
+T8_access_cost_connectivity,6.0,6.0,0.957,0.478
+T9_other_none,29.0,12.0,0.837,0.362

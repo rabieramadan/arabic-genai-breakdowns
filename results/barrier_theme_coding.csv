@@ -1,0 +1,146 @@
+T1_inaccurate_output,T2_arabic_grammar_morphology,T3_literary_misattribution,T4_fabricated_references,T5_prompting_appraisal_skill,T6_lack_of_arabic_tools,T7_institutional_resistance,T8_access_cost_connectivity,T9_other_none,participant_id,text,any_barrier
+True,False,False,False,False,False,False,False,False,P001,عدم دقة الاجابة || تذبذب المعلومات,True
+True,False,False,True,False,False,False,False,False,P002,الدقة || شح المصادر والمراجع,True
+False,False,False,False,False,False,False,False,True,P003,محايد || لا شيء,True
+True,False,False,True,False,False,False,False,False,P004,عدم توفر مصادر موثوقة || عدم الفهم السريع،و قلة الدقة في المعاني,True
+True,True,False,False,False,False,False,False,False,P005,لا يمكن الاعتماد عليه في الدراسة، يمكن استخدامه فقط للبحث عن معلومات سطحية، ولا يصلح لشيء أعمق من ذلك || لا يستطيع الذكاء الاصطناعي التعامل مع اللغة العربية الا في ابسط الحالات,True
+False,True,False,False,False,False,False,False,False,P006,صعوبة فهمه للغة || لا يفهم قواعد اللغة العربية كثيرًا,True
+True,False,True,False,False,False,False,False,False,P007,المعلومات الخاطئة || تحليله للأبيات بصورة خاطئه او اعطائي أشياء من تأليفه,True
+True,False,False,False,False,False,False,False,False,P008,لا يفهم كثيرا ف اللغة || !,True
+True,False,False,True,False,False,False,False,False,P009,التدقيق اللغوي والاملائي || دقة المراجع,True
+False,False,True,False,False,False,True,False,False,P010,الدكاترةلا يعجبهم ذلك || الخطأ في تحديد نسبة البيت للشاعر,True
+False,False,False,False,False,True,False,False,False,P011,لا يوجد || عدم وجود تطبيقات تدعم اللغه العربية,True
+False,True,False,False,False,False,False,False,False,P012,لا يفهم النحو || لا يعرف كما قلت سابقا في قواعد النحو,True
+True,False,False,False,False,False,False,False,False,P013,ضعف الدقه العلميه || ..,True
+True,False,False,False,False,False,False,False,False,P014,قلة المعرفه به و المعلومات المغلوطه || التحليل الغير دقيق مثلا,True
+True,True,False,True,False,False,False,False,False,P015,عدم استجابة الذكاء الاصطناعي في كل نقطة الإجابات الخاطئة معلومات مغلوطة بدون توثيق || يحلل بشكل خاطئ ، لا يجيد الاعراب ويخطأ كثيرًا فيه,True
+True,False,False,False,False,False,False,False,False,P016,عدم دقة نتائج الذكاء الاصطناعي في الادب العربي || عدم دقة البيانات وعدم صحة التحليلات صعوبة العمل على ملفات كبيرة,True
+False,True,False,False,False,False,False,False,False,P017,تعليق البرنامج المستخدم وتكراره للذي يقول || عدم فهم قواعد اللغة بشكل جيد خاصة لو خدعته بأكثر من قاعدة بسؤال,True
+True,False,False,True,False,False,False,False,False,P018,عدم دقة بعض النتائج، وصعوبة التحقق من المصادر || أحيانًا يعطي معلومات غير دقيقة أو عامة، مما يسبب التباسًا في الفهم,True
+True,False,False,False,False,False,False,False,False,P019,عدم دقة المعلومات اللتي يقدمها و ضعف الفهم للسياق احيانا || لا توجد,True
+True,True,False,False,False,False,False,False,False,P020,لا يمكن الاعتماد عليه لأنه يعطي إجابات غير دقيقة || عندما ارغب ان يشرح لي سؤال في النحو يجمع بين قاعدتين لا يستطيع حله بشكل صحيح,True
+True,False,False,False,False,False,False,False,False,P021,عدم دقة بعض المعلومات مما يجعلني بحاجة إلى التحقق منها من مصادر موثوقة كذلك أحيانا قد يقدم الذكاء الاصطناعي إجابات عامة أو غير تفصيلية بالشكل الذي يناسب المستوى الأكاديمي المطلوب. || عدم دقة الإجابات.,True
+True,True,True,True,False,False,False,False,False,P022,عدم دقة المصادر التي يعتمد عليها، فهو كثيرًا ما يحيل إلى كتب لغير مؤلفيها، وأحيانًا يأتي بالمعلومة ويوثقها من مرجع لا علاقة له بها أصلًا. كما أنّ لغته لا تعد لغة رصينة، بيْد أنّنا لا نستطيع الحكم عليها بالخطأ. || ينسب الذكاء الاصطناعي أبيات الشعر لغير قائلها، بل ويخترع لشاعر ما أبيات لم يقلها. ليس دقيقا في التفريق بين الصيغ الصرفية. يخطأ كثيرًا في الإعراب,True
+True,False,False,False,True,True,False,False,False,P023,قلة الخبرة والقدرة على نقد المحتوى المقدم من برامج الذكاء الاصطناعي التوليدية || ضعف القدرة على نقد المحتوى المقدم، كذلك دقة الإجابات المقدمة لأن معظمها تتعامل مع اللغة الإنجليزية,True
+True,False,False,False,False,False,False,False,False,P024,دقة المعلومات، وموثوقيتها || بعض المعلومات التي يأتي بها خاطئة، أو لادخل لها بالموضوع الذي أبحث عنه.,True
+True,False,False,False,False,False,False,False,False,P025,عدم الدقة في المعلومات-كثرة الأخطاء || معلومة خاطئة,True
+True,True,False,False,False,True,True,False,False,P026,١. غالبًا الذكاء الاصطناعي غير دقيق في اللغة العربية ويقدّم أحيانًا معلومات خاطئة. ٢. رفض الدكاترة قيام الطلبة باستخدام الذكاء الاصطناعي حتى لو على سبيل المساعدة وتقديم أفكار مثلًا. || ١. لا يدعم اللغة العربية في توليد الصور، غالبًا يكتب الحروف والكلمات بصورة غير واضحة أو عشوائية. ٢. لا يمكن الاستفادة منه في النحو بصورة كبيرة.,True
+True,False,False,True,False,False,False,False,False,P027,عدم دقة المعلومات والمصادر. || عدم دقة الشرح ومعلومات غير صحيحة .,True
+True,False,False,True,False,True,False,False,False,P028,عدم دقة بعض المعلومات أحيانًا، وصعوبة التأكد من موثوقية المصادر بسبب انه قد يقدم مصادر غير موجودة من الأساس. || التجارب السلبية التي واجهتها أن بعض الإجابات كانت غير دقيقة أو تحتوي على معلومات غير موثوقة، مما اضطرني إلى مراجعة المصادر والتأكد من صحة المعلومات قبل الاعتماد عليها ، ايضاً ان الذكاء الاصطناعي لا يدعم العربية كثيرًا على عكس اللغة الإنجليزية.,True
+True,True,False,False,False,False,False,False,False,P029,عدم وجود اداه تجلب معلومات دقيقه عن اللغه العربيه || توليد اعرابات خاطئه وغير منطقيه اصلا,True
+False,False,False,False,False,False,False,False,False,P030,. || .,False
+True,False,False,False,False,False,False,False,False,P031,الإجابات غير الدقيقة || عندما أطلب منه أن يلخص لي قصة أو موضوع أحياناً تلخيصه يكون مخل بالمعنى بالإضافة إلى الإجابات غير الدقيقة أحيانا,True
+True,True,False,False,False,False,False,False,False,P032,لا يتعرف على قواعد العربية || لا يتعمق في الاجابة,True
+True,True,False,False,False,False,False,False,False,P033,عدم الدقة || لا يجيد كل الجوانب في اللغة، ربما يستطيع الإعراب بشكل جيد.,True
+True,True,False,False,False,False,False,False,False,P034,أنه لا يفقه اللغة العربية بالشكل الذي أتطلع له || طلبت منه مساعدتي في حل واجب منزلي و لم أحصل في هذا الواجب على درجة كاملة مثلما توقعت (اعتمدت على الذكاء الاصطناعي بنسبة ٩٨% تقريبا) و هذا عزز نبوءة دكتور المقرر أن الذكاء الاصطناعي لن يفيدنا في حل ذلك الواجب، و قد كنت أحاول إثبات العكس...,True
+True,False,False,False,True,False,False,False,False,P035,عدم المقدرة على كتابة أوامر prompts لجعل النتائج دقيقة في الأدب واللغة العربية أكثر دقة || عدم دقة البيانات والمعلومات,True
+True,False,False,False,False,False,False,True,False,P036,منحي إجابات خاطئة وغير دقيقة ، بعض الإجابات تأتي من مصادر غير. موثوقة ، طول مدة توليد الصور والمقاطع || يمنحني إجابات من وحي خياله لا أساس لها من الصحة و أيضا تأخره في منح الإجابات,True
+True,False,False,False,False,False,False,False,False,P037,الذكاء الاصطناعي يجيب بطريقة خاطئة وعند تحليل الجداول والاحصائيات يحذف بعض النقاط كأن مسح الصورة لم يتم بطريقة صحيحة فتصبح المعلومات ناقصة، وكذلك يكتب بعض الأحيان معلومات زائدة من عنده، لذلك تحتاج اجاباته إلى تأكد شخصي من مدى صحتها. || أثناء المذاكرة لم أفهم نقطة معينة ثم سألته عنها وبدت لي الاجابة غير مُقنعة وشعرت بالإحباط.,True
+False,False,False,False,False,False,False,False,True,P038,كيفية صياغة المحتوى || لا يوجد,True
+True,True,False,False,False,False,False,False,False,P039,عدم فهم المطلوب منه بشكل جيد، والاختصار في المعلومات، وعدم دقة المعلومات، والضعف الكبير في جانب تحليل اللغة العربية من جوانب مختلفة كالإملاء والإعراب. || استخدمت chat gpt في التحقق الإملائي من كلمة لأرى مدى إمكانيتة ودقته في تطبيق القواعد الإملائية بعد أن قدمت له قواعد كتابة الهمزة المتوسطة، فأخطأ أخطاء فادحة بكتابة الكلمات التي قدمتها له.,True
+False,False,False,False,False,False,False,False,False,P040,- || -,False
+True,False,False,False,False,False,False,False,False,P041,في الواقع لا أعتمد على الذكاء الاصطناعي كونه غير دقيق لذا أتجنبه. || تجربة الطلبة الذين أدرسهم,True
+True,False,True,False,False,False,False,False,False,P042,الحصول على إجابات دقيقة || كثيرا ما يؤلف من عنده خاصة الشواهد,True
+True,True,False,False,False,False,False,False,False,P043,لا يجيب بدرجة عالية من الدقة و هو غير مفيد في مواد اللغة العربية عكس المواد التربوية || لا يجيد الاعراب و لا التحليل و هو فاشل في النحو ولكن لا بأس به في الصرف,True
+True,False,False,False,False,False,False,False,False,P044,عدم دقة المعلومات || عدم دقة المعلومات و التحليل .,True
+True,False,False,False,True,False,False,True,False,P045,عدم توفرها مجانيًا بصورة محترفة، قلة الخبرة في التقنيات الحديثة || عدم دقة المعاني,True
+True,True,False,False,False,False,False,False,False,P046,"الدقة في التحليل اللغوي العميق: رغم تطور النماذج، إلا أنها قد تخفق أحياناً في ضبط ""أواخر الكلم"" أو إعراب الجمل المعقدة التي تعتمد على السياق البعيد أو التقدير (كالمحذوفات والتقديم والتأخير)، مما قد يؤدي لنتائج غير دقيقة في التخصصات اللغوية الدقيقة. || من أبرز التجارب السلبية هي ""الهلوسة اللغوية في الإعراب""؛ حيث طلبتُ من الذكاء الاصطناعي إعراب بيت شعري يتضمن ""تقديمًا وتأخيرًا"" معقدًا، فقام بإعراب الكلمات بشكل منفرد وصحيح ظاهريًا، لكنه أخطأ تمامًا في ربط المعنى، فجعل ""الفاعل"" ""مفعولًا به"" لمجرد أنه تقدم عليه في الترتيب. هذه التجربة كانت مربكة لأن الإجابة صيغت بثقة تامة، مما قد يضلل الطالب الذي لا يملك خلفية قوية، وأثبتت لي أن الذكاء الاصطناعي أحيانًا يفتقر إلى ""الذوق السياقي""",True
+False,True,False,False,False,False,False,False,False,P047,عدم استيعابه لبعض القضايا النحوية والصرفية. || فاشل بشكل كبير في النواحي النحوية والصرفية، ولا أجد له أدنى فائدة في هذين الجانبين.,True
+True,False,False,False,False,False,False,False,False,P048,الحصول على الإجابات الدقيقة وخصوصا في الجانب الأدبي || في مقرر أدب عمان بحكم أن القصائد أدباء عمان نادرا ما تجد لها تحليلا؛ فكان حتى الذكاء الاصطناعي لا يعطيني إجابات دقيقة للتحليل.,True
+False,True,False,True,False,False,False,False,False,P049,عدم وجود مصادر موثوقة للمعلومة+ ضعف اللغة العربية بالنسبة للذكاء الاصطناعي || عدم معرفته بقواعد النحو بنسبة ١٠٠٪؜,True
+True,True,False,False,False,False,False,False,False,P050,لا يعطيني معلومات دقيقة || في النحو ، دائمّا ما يخطئ في فهم القواعد وشرحها,True
+True,True,False,False,False,False,False,False,False,P051,- || يهرف بما لا يعرف في النحو والاشتقاق,True
+True,True,False,False,False,False,False,False,False,P052,معرفة مدى دقة المعلومة المقدمة من التطبيق || التحليل الخطئ لبعض الأبيات في مجال البلاغة,True
+True,True,True,False,False,False,False,False,False,P053,"أبرز التحديات هي ""عدم الدقة في ضبط النصوص وتشكيلها"" بشكل صحيح تماماً، بالإضافة إلى ضعف قدرة بعض الأدوات على فهم ""المجاز والكناية"" وخصوصية الأدب العربي القديم، مما قد يؤدي إلى تفسيرات سطحية أو خاطئة أحياناً. || واجهتُ تجربة قام فيها الذكاء الاصطناعي بـ ""اختلاق"" أبيات شعرية ونسبها لشاعر جاهلي، أو خلطه بين قواعد النحو لمدرسة البصرة والكوفة في مسألة خلافية واحدة، مما جعلني أدرك أهمية التحقق من المصادر وعدم التسليم المطلق بصحة النتائج.",True
+False,False,False,False,False,False,False,False,True,P054,التقانة || لايوجد,True
+False,True,False,True,False,False,False,False,False,P055,عدم استيعابه للغة العربية وقواعدها || عدم وجود مصادر دقيقة تثبت المعلومة,True
+True,True,False,False,False,False,False,False,False,P056,عدم الدقه كونه ضعيف في العربية || الاجابات الخاطئة لشات جي بي تي,True
+True,False,False,False,True,False,False,False,False,P057,عدم الدقة في المعلومات، تحديد بالضبط ما اريد من الذكاء الصناعي || دايما اواجة سلبية,True
+True,False,False,False,False,False,False,False,False,P058,دقة المعلومات || عدم دقة المعلومات,True
+True,False,False,False,False,False,False,False,False,P059,أحيانا يكون غبيا لا يفهم || يحلل على راسه ويقلب المعاني فوق تحت,True
+True,True,False,False,False,False,False,False,False,P060,معلوماته عام و لم يتعمق في اللغة العربية بشكل كبير و نقص كبير في تحليل النصوص || ضعيفه في شرح النصوص الأدبية,True
+False,False,True,False,False,False,False,False,False,P061,الموثوقية والأمانة العلمية. || طلبت من إحدى المنصات اختيار قصيدة من الديوان المطبوع عندي وقام بإنشاء قصيدة فقط لكي يجاوب على السؤال.,True
+True,False,False,False,False,False,False,False,False,P062,المعلومات غير دقيقة في بعض الأحيان ، ولا يتناول التحليل العميق || في تحليل النصوص وفهم المعنى العام من البيت فيساعد على تحليله وفهمه بلاغيا,True
+True,True,False,True,False,False,False,False,False,P063,من أبرز التحديات صعوبة التأكد من دقة بعض المعلومات أحيانًا، خاصة في التحليل الأدبي أو الشروح اللغوية، إضافة إلى أن بعض الأدوات تقدّم إجابات عامة لا تراعي مستوى الطالب أو متطلبات المقرر. كما قد يكون من الصعب الحصول على مصادر موثوقة واضحة، أو استخدام التطبيقات بطريقة تساعد على الفهم الحقيقي بدل الاعتماد الكامل عليها. || من التجارب السلبية التي واجهتها أن بعض أدوات الذكاء الاصطناعي كانت تقدّم أحيانًا تحليلات أدبية أو إعرابية غير دقيقة، مما سبّب لي التباسًا أثناء الدراسة,True
+True,False,False,False,False,False,False,False,False,P064,صعوبتها || خطا في المعلومات,True
+True,False,False,False,False,False,False,False,False,P065,لاتوجد || تحليل الشعر بشكل غير صحيح,True
+True,False,False,False,False,False,False,False,False,P066,لا توجد تحديات فعلية يمكن إعتبارها تحديات خفيفة وطفيفة || ربما عندما يحل بشكل خاطئ في أسئلة سهلة,True
+False,True,False,False,False,False,False,False,False,P067,لا يلم بمعظم علوم اللغة العربية || لا يلم بعلوم النحو والصرف والبلاغة والعروض,True
+True,False,True,True,False,False,False,False,False,P068,عدم دقة المعلومات || مراجع وهمية وابيات شعر مبتكرة,True
+True,False,False,False,False,False,False,False,False,P069,ضعف فهم الذكاء الاصطناعي للغة العربية || -,True
+False,False,False,False,False,False,False,False,True,P070,المعرفة || كتابة الشعر,True
+True,False,False,False,False,False,False,False,True,P071,لا اعلم؛ لا استخدمه لكن ممكن أن يكون دقة المعلومات || حقيقةً، لا يوجد تجربة كاملة لكن في البداية كنت استخدمه لشرح بعض النقاط وهذا أدى إلى أن حين أواجه نص أواجه صعوبة في تحليله.,True
+False,True,False,False,False,False,False,False,False,P072,وايد تحديات || ما يعرف يعرب,True
+True,True,True,False,False,False,False,False,False,P073,"ضعف الدقة في التعامل مع القواعد النحوية المعقدة، ومحدودية قدرة الأدوات الحالية على فهم السياقات البلاغية العميقة للنصوص التراثية. || الحصول على إجابات تحتوي على ""هلوسة لغوية""، مثل ابتكار قواعد نحوية غير صحيحة أو نسب أبيات شعرية لشعراء لم يكتبوها.",True
+True,False,False,False,False,False,False,False,False,P074,صعوبة الحصول على المعلومات الدقيقة جدا وصعوبة تعقب الإجابة النموذجية منه || خروجه عن السياق بعد اكثر من محادثة حيث يظهر الى سياق اخر تماما لا يعلم مدى حدود المحادثة أو العلم الذي يملكه المستخدم حيث يتعمق في الكثير من الأحيان,True
+True,True,False,False,False,False,False,False,False,P075,عدم دقه المعلومات التي يقدمها و كذلك عدم فهمه للقواعد العربيه || ‏عدم دقة المعلومات التاريخية التي يعطيها وكذلك يخلط بين القواعد العربية وخاصة الأساليب البلاغية,True
+True,False,False,False,False,False,False,False,False,P076,عدم الدقة || لا يوجد,True
+True,False,False,False,False,False,False,False,False,P077,الإجابات غير دقيقة || لا توجد,True
+True,True,False,True,False,False,False,False,False,P078,عدم الدقة + معلومات خاطئة || ١- معاني خاطئة ٢- شرح الأبيات بشكل خاطئ ٣- إعراب الجمل بشكل خاطئ ٤- عدم استجابته عند طلب مصادر عربية لموضوع ما,True
+True,True,False,False,False,False,False,True,False,P079,صعوبة فهمه للعربية، ويجب إدخال معلومات صحيحة له، لأنه قد يأتي بعلمٍ وحده، أو يفسّر شيئًا خاطئًا بطريقة تجعلك تقتنع به، وكذلك محدودية الوصول المجاني || لا يستطيع تحليل الأبيات الشعرية، عندما لم أجد شرحًا لا في الكتب ولا في الشبكة المعلوماتية، استنعت بالذكاء، لكنه لا يحلل بشكل صحيح,True
+True,False,True,False,False,False,False,False,False,P080,عدم دقة المعلومات أحيانا || يعطيني أبيات من تأليفه,True
+True,False,True,False,False,False,False,False,False,P081,معلومات غير دقيقة ومعظمها خاطئة || أبيات شعرية غير موجودة,True
+False,False,False,False,True,False,False,False,False,P082,صعوبة فهمه للفكرة التي أريد إيصالها له || .,True
+False,False,False,False,False,False,False,False,True,P083,محدودية استخدام الصور فيها || لا يوجذد,True
+True,False,False,False,False,False,False,False,False,P084,لا يقول (لا أعلم)، وإن كانت إجابته خاطئة، ولكن غالبًا لدي علمٌ كافٍ لتمييز ما إن كانت إجابته صحيحةً أم خاطئة || عدم إلمامه بالمعلومات الأدبية واللغوية كلّها,True
+True,False,False,False,False,False,False,False,False,P085,عدم دقة المعلومات || -,True
+True,True,False,False,False,False,False,False,False,P086,عدم مناسبته أحيانا لموضوعات دراستنا حيث يوجد أخطاء كثيرة في استجابته. || عدم إلمامه بالظواهر اللغوية أحيانا؛ فيكرر الكلام دون الوصول إلى نتيجة.,True
+True,True,False,True,False,False,False,False,False,P087,دقة الإجابات و ندرة المراجع الموثوقة التي يعتمد عليها الذكاء الاصطناعي في الإجابة || عندما طلبت من الذكاء الاصطناعي ان يحل لي سؤال نحوي يجمع بين أكثر من قاعدة لم يستطع حله بالشكل الصحيح,True
+False,False,False,False,True,False,False,False,False,P088,لا أستطيع معرفة صحة الإجابة من خطئها || -,True
+True,True,False,False,False,False,False,False,False,P089,الاعتماد عليه أحيانا مثلا في تحليل نص أدبي يحد من قدرتك على التفكير ويقيدك بما هو موجود أمامك من شرح أو إيضاح أو تحليل || عدم الدقة فيه خاصة في الإعراب والبلاغة,True
+True,True,False,False,False,False,False,False,False,P090,أحيانًا يعطي معلومات غير دقيقة أو غير موثوقة || يقدّم شرحًا أو إعرابًا غير دقيق لبعض النصوص العربية، خاصة في القواعد والبلاغة، مما سبب لي فهمًا خاطئًا,True
+True,False,True,False,False,False,False,False,False,P091,عدم توافق الذكاء الاصطناعي مع مدخلاتي، وإعطاء نتيجة بعيدة من المطلوب. || إنشاء بيوت شعرية غير موجودة قام الذكاء بتوليدها من عقله.,True
+False,True,False,False,False,False,False,False,False,P092,. || الخلط بي القواعد النحوية والبلاغية والصرفية,True
+True,False,False,False,False,False,False,False,False,P093,عدم دقة معلومات الذكاء الاصطناعي || المعلومات المغلوطة,True
+True,False,False,True,False,True,False,False,False,P094,دقة المعلومات، إعطاء مراجع وهميّة أحيانا، غالبية برامج الذكاء تدعم البحث باللغة الإنجليزيّة. || في شرح أمثلة نظريات لسانيّة وردت في كتاب مترجم قديم، لم يقدم شرحا دقيقا للأمثلة.,True
+False,True,False,False,False,False,False,False,False,P095,لا توجد تحديات كل شيء أصبح سهلا مع وجود الذكاء الاصطناعي || أحيانا تظهر إعرابات خاطئة,True
+True,True,False,False,False,False,False,False,False,P096,الحصول على معلومات غير موثوقة. || شرح سطحي للأبيات الشعرية، وكذلك بالنسبة للبلاغة، كما أنه يخلط كثيرًا بين قواعد النحو والصرف.,True
+True,False,False,False,False,False,False,False,False,P097,ما يحل صح || مرات المعلومات تكون خطأ,True
+True,False,False,False,False,False,False,False,False,P098,عدم صحة المعلومات ١٠٠٪؜ || اختلاف الاراء,True
+False,True,False,False,False,False,False,False,False,P099,لا تستطيع إفادتي في البلاغة || لم أواجه حقيقة,True
+True,False,False,False,False,False,False,False,False,P100,لا أستعمل الذكاء الاصطناعي كثيرا || لا يعطيك الإجابه الدقيقه أو المعلومه الدقيقه التي تريدها,True
+True,True,False,False,False,False,False,False,False,P101,الاخطاء الجسيمة فيه || بعض الاخطاء الاعرابية,True
+True,True,False,False,False,False,False,False,False,P102,غير دقيقة || في البلاغة,True
+True,True,False,False,False,False,False,False,False,P103,الاجابات الغير دقيقة || عند اعراب حروف المعاني دائما يخطئ,True
+True,False,False,False,False,False,False,False,False,P104,لا توجد تحديات || عدم الدقة في المعلومات التي تقدمها هذه البرامج,True
+True,False,False,False,False,False,False,False,False,P105,الدقه في المحتوى || الدقه بسيطه و غير دقيقه مثل التطبيقات الأخرى,True
+False,False,False,False,False,False,False,False,True,P106,لا أستخدمه كثيرا لذا لا أواجه مشكلة || أنني أتكلم وأثق في الذكاء أكثر من عقلي وهذا ما يفسد العقل,True
+True,False,False,False,False,False,False,False,False,P107,اجابات غير دقيقة || ما اذكر الحين,True
+True,True,False,True,False,False,False,False,False,P108,دقة المحتوى \ صعف الصياغة \ الاقتاباسات حيث يصعب التحقق من الأبيات الشعرية و الأقوال التي يكتبها || مصادره ضعيفه واعتماده على مصادر قوية جدا محدود,True
+False,True,False,True,False,False,False,False,False,P109,جهل الذكاء الاصطناعي باللغة العربية || ذكر أسماء كتب ومراجع لا توجد في العربية,True
+False,False,False,False,False,False,False,False,False,P110,- || -,False
+True,False,False,False,False,False,False,False,False,P111,أنه يعطي أحيانًا معلومات غير دقيقة ويظن أنها صحيحة || عدم دقة المعلومات وأنه أبدًا لا يعترف بالخطأ أو قول لا اعرف الاجابة,True
+False,False,False,False,False,False,False,False,True,P112,لا استخدمه كثير لذلك لا أعرف التحديات || لا أعلم ، لم استخدمه,True
+True,False,False,False,False,False,False,False,False,P113,عدم دقة المعلومات || -,True
+False,False,False,False,False,False,False,False,False,P114,لا يوجد || لا يوجد,False
+True,True,False,False,False,False,False,False,False,P115,يقدم الذكاء الاصطناعي معلومات غير دقيقة أغلب الأحيان || عندما طلبت من أداة تحليل البيت عروضيًا ،لم تستطع أي أداة فعل ذلك.,True
+True,False,False,False,False,False,False,False,False,P116,عدم التيقن من اجابه الذكاء الاصطناعي فتارة يصيب وتارة يخطئ || اردت البحث عن معلومه واعطاني معلومات خاطئة,True
+True,True,False,False,False,False,False,True,False,P117,الباقات المدفوعة، وتحدي التوكن ( الرصيد) المحدود. || عدم دقة الإجابة، خاصة في مجال النحو والإعراب. ضعيف جدا في هذا المجال، جيميناي أفضلهم فيه كونه مربوطا بجوجل.,True
+True,False,False,False,True,False,False,False,False,P118,يحتاج وقت حتى يفهم الذي تريده || المعلومات الخاطئة,True
+True,False,False,False,False,False,False,False,False,P119,لا استخدمه لاني لا ازال ارى انه غير قادر على القيام بالمطلوب على وجه صحيح || لا يمكنه التفكير كطالب او ناقد ما زال يحتاج تطويرا,True
+False,False,False,False,False,True,False,True,False,P120,بعض البرنامج يحب أن ندفع مقابل مادي لاستخدامها || بعض البرامج غير مدعومة باللغه العربية,True
+False,False,False,False,True,False,False,False,True,P121,قلة المعرفة بالبرامج المناسبة وتوظيفها . || لا توجد .,True
+True,True,False,False,False,False,False,False,False,P122,تُربكني فكرة اللجوء للذكاء الاصطناعي بشكلٍ عام، حيث أصبح الخيار الأسهل للطالب يهرع إليه عند أبسط سؤال وهذا ما لا يجب على الطالب فعله، فمن المُؤسف أن أرى نفسي تلجأ إلى الذكاء الاصطناعي بعد ما كانت تُشغل عقلها بالتفكير والتحليل والنقد والآن لا تُتعب نفسها في ذلك حتى عند أبسط عرقلة! لربما التحدي البارز هو ذلك التحدي الذي عقدته بيني وبين نفسي في محاولة التقليل من استخدام الذكاء الاصطناعي أثناء الدراسة. وممّا لا شك فيه بأنَّ أدوات الذكاء الاصطناعي لا تُقدم لنا نحن طلاب اللغة العربيّة شيئًا، فقد برمجت بخوارزميّات ضعيفة جدًا. || ما أستطيع قوله بأنَّ الذكاء سيء في اللغة ولا يصلُح للاستعانة به في ذلك.,True
+True,False,False,False,False,False,False,False,False,P123,عدم دقة المعلومات. || لا يجيد تحليل القصائد.,True
+True,False,False,False,False,False,False,False,False,P124,ما يفهم ما أقول || …,True
+True,True,False,False,False,False,False,False,False,P125,عدم دقه المعلومات || استعنت بالذكاء الاصطناعي لإعراب بعض الكلمات و لكنه لم يعطني إجابه دقيقة,True
+True,False,False,False,False,False,False,False,False,P126,موثوقية البيانات التي يعطيني إياها وعدم القدرة على الاعتماد عليها. من ناحية شخصية أحب جمع البيانات والحصول عليها بنفسي لتحقيق الفائدة الكبرى. || لم أجرب ذلك، لأنني لا اعتمد عليه في تحصيل مثل هذه العلوم.,True
+True,False,False,False,False,False,False,False,False,P127,"عدم دقّة البيانات وموثوقيتها. || كنت أعدّ بحث عن المعاجم الجُغرافية، ومجال الدراسة هو ""مُعجم البُلدان"" لياقوت الحمويّ. وكانت الفكرة في الجانب العملي أن استقري البُلدان العُمانية التي أوردها الحموي في مُعجمه واستعنب بأدوات الذكاء الاصطناعي في ذلك، وبعد التحقّق من الجزء ورقم الصفة التي يُعطيني إياها؛ وجدت أنّه يُعطيني معلومات خاطئة.",True
+False,False,False,False,False,False,False,False,True,P128,ندرة المعلومات في كيفية استعمال كل أداة. || لا توجد.,True
+False,True,False,False,False,False,False,False,False,P129,عدم استطاعته قراءة الكتب الالكترونية وتحديد رقم الصفحات || التجربة السلبية دائماً تكمن في الإعراب، وكذلك تحديد رقم الصفحات والإجابات المتكررة.,True
+False,False,True,False,False,False,False,False,False,P130,التحدي الأخلاقي || تجربة شات جي بي تي أسوء تجربة ذكاء اصطناعي مرت علي خصوصا في عبثه في الاستشهادات الشعرية وعدم نسبتها الصحيحة لقائلها أو اختلاقها اختلاقا,True
+True,True,False,False,False,False,False,False,False,P131,غباء الذكاء الاصطناعي في حل الأسئلة المعقدة في مواد القسم || خذلني في واجب النحو ، وأجاب إجابات خاطئة ولم أعتمد عليه,True
+True,True,False,True,False,True,False,False,False,P132,عدم المعرفة التامة باللغة العربية، افتقاده للدقة في الإجابات و معرفة مكنون اللغة كذلك، أجد تطبيقات الذكاء الاصطناعي لا تستطيع خدمة طالب أو دارس العربية ما لم يكن التطبيق خاصا بها. || طلب مصادر قد تساعدني في كتابة موضوع بحثي، إذ أتى بمصادر بعيدة تماما عن الموضوع المذكور له.,True
+True,False,False,False,False,True,False,False,False,P133,عدم وجود أداة تخدم اللغة العربية بدقة || الإجابات غير دقيقة,True
+True,False,False,False,True,False,False,False,False,P134,الأخطاء || عدم التفكير والأعتماد عليها,True
+False,True,False,False,False,False,False,False,False,P135,لا يفهم المطلوب || تحليل الابيات بلاغيًأ، ك تشات,True
+False,True,False,False,False,True,False,False,False,P136,قلة المحتوى اللغوي والأدبي في الذكاء الاصطناعي || عدم القدرة على الإعراب الصحيح,True
+True,False,False,False,False,False,False,False,False,P137,عدم الدقة وعدم السرعة || عدم الدقة,True
+False,True,False,False,False,True,False,False,False,P138,عدم توفرها بالجودة العالية || لا يجيد اللغة العربية جيدا,True
+True,False,False,False,False,False,False,False,False,P139,المعلومات الخاطئة || لا أمتلك,True
+False,True,False,False,False,False,False,False,False,P140,الأخطاء النحوية والصرفية || لا يوجد,True
+True,False,False,True,False,True,False,False,False,P141,لا تستطيع برامج الذكاء الاصطناعيّ قراءة النصوص العربيّة -التّراثيّة والمعاصرة- لأنها غير مرقمنة. || كثيرًا ما تمدّني بمعلومات خاطئة عن المراجع العربيّة التراثيّة.,True
+True,False,False,True,True,False,False,False,False,P142,عدم دقة المعلومات، واختلاف الإجابة مع اختلاف صياغة السؤال وإن كانت الفكرة واحدة || عدم الدقة! والمصادر الموهومة!,True
+True,False,False,False,False,False,False,False,False,P143,عدم الدقة || ز,True
+True,False,False,False,False,False,False,False,False,P144,اختلاف الإجابات || تعدد الإجابات وعدم الدقة,True
+True,True,False,False,False,False,False,False,False,P145,عدم إعطاء الطالب المعلومة الدقيقة والكافية لما يبحث عنه || عند البحث عن اعراب جملة ما فإنه يقوم بإعرابها بشكل خاطئ وغير دقيق,True

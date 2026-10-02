@@ -1,0 +1,13 @@
+Statistic or analysis,Analytic n,Reason for difference from 145
+Total respondents,145,all analyses start here
+Awareness & Availability composite,145,mean of 6 items; no respondent missing all 6
+Functional Application composite,144,1 respondent missing all 8 items
+Prompting & Critical Appraisal composite,144,1 respondent missing all 6 items
+Aspiration & Vision composite,145,complete
+"Paired t-test, aspiration vs application",144,pairwise-complete on the two composites; t(143)
+"Repeated-measures ANOVA, 4 dimensions",144,"complete across all four composites; F(3,429)"
+Barrier-theme corpus,141,4 respondents gave no substantive answer to either barrier item
+"Stance item, substantive answers",138,7 respondents left the stance item blank or gave a non-substantive answer
+"Stance item, codable stance",135,10 of the 145 have no codable stance: 7 non-substantive answers plus 3 substantive answers expressing no position
+Stance x competency ANOVA,135,"the 135 respondents with a codable stance; all have a competency score; F(2,132)"
+Calibration logistic models,140,"barrier corpus with complete predictor set (appraisal, prior training, weekly use)"

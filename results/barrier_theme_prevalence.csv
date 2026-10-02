@@ -1,0 +1,10 @@
+theme,label,n,pct,kappa_A_vs_B
+T1_inaccurate,Inaccurate / unreliable output,101,71.6,0.873
+T2_weak,Weak Arabic grammar & morphology,68,48.2,0.958
+T3_hallucinated,Hallucinated literary attribution,12,8.5,0.902
+T4_fabricated,Fabricated / missing references,23,16.3,0.974
+T5_weak,Weak prompting / appraisal skill,20,14.2,0.724
+T6_few,Few Arabic-supporting tools,9,6.4,0.938
+T7_faculty,Faculty / institutional resistance,3,2.1,0.797
+"T8_cost,","Cost, limits or connectivity",9,6.4,1.0
+T9_other,Other / none,4,2.8,1.0

@@ -1,0 +1,22 @@
+reference,doi,crossref_status,title_overlap,authors_complete,volume,issue,pages,cited_in_text,action
+Abdalla (2025),10.1016/j.ssaho.2025.101310,verified,1.0,yes,11,,101310,yes,
+Al-Khalifa (2024),none,verified (arXiv API + OpenAlex),,yes,,,,yes,"preprint, no journal publication; arXiv DOI added"
+Alharthi (2024),10.24093/awej/call10.2,verified,1.0,yes,,10,15-35,yes,
+Almanea (2021),10.1109/access.2021.3122977,verified,1.0,yes,9,,145012-145032,yes,
+Almatrafi (2024),10.1016/j.caeo.2024.100173,verified,1.0,yes,6,,100173,yes,
+Annapureddy (2025),10.1145/3685680,verified,1.0,yes,6,1,1-21,yes,
+Baek (2024),10.1016/j.caeai.2024.100294,verified,1.0,yes,7,,100294,yes,
+Batista (2024),10.3390/info15110676,verified,1.0,yes,15,11,676,yes,
+Faisal (2024),10.3389/feduc.2024.1325601,verified,1.0,yes,9,,1325601,yes,
+Gerlich (2025),10.3390/soc15010006,verified,1.0,yes,15,1,6,yes,
+Hassine (2025),10.18653/v1/2025.emnlp-main.1756,verified,1.0,yes,,,34615-34630,yes,page range 34615-34630 added from Crossref and OpenAlex
+Khondaker (2023),10.18653/v1/2023.emnlp-main.16,verified,1.0,yes,,,220-247,yes,
+Li (2025),10.1016/j.caeai.2025.100445,verified,1.0,yes,9,,100445,yes,
+Linardon (2025),10.2196/80371,verified,1.0,yes,12,,e80371,yes,
+Long (2020),10.1145/3313831.3376727,verified,1.0,yes,,,1-16,yes,
+Mugaanyi (2024),10.2196/52935,verified,1.0,yes,26,,e52935,yes,
+Ng (2021),10.1016/j.caeai.2021.100041,verified,1.0,yes,2,,100041,yes,
+Steele (2023),10.1016/j.caeai.2023.100160,verified,1.0,yes,5,,100160,yes,
+Syahrin (2024),10.24093/awej/ChatGPT.4,verified,1.0,yes,1,1,73-89,yes,
+Walters (2023),10.1038/s41598-023-41032-5,verified,1.0,yes,13,1,14045,yes,
+de Marneffe (2021),10.1162/coli_a_00402,"verified, field conflict",1.0,yes,,,1-54,yes,"entry gives 47(2), 255-308; Crossref and OpenAlex both carry pages 1-54 with no volume. Index metadata is incomplete for this MIT Press record; entry left as supplied - confirm against the journal page"

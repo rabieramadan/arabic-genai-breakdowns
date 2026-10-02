@@ -1,0 +1,54 @@
+{
+  "n_respondents": 145,
+  "aspiration_vs_application": {
+    "n": 144,
+    "df": 143,
+    "t": 13.6846,
+    "p": 8.95545097629731e-28,
+    "mean_diff": 1.1052,
+    "d_z": 1.14
+  },
+  "rm_anova_four_dimensions": {
+    "F": 115.53,
+    "df1": 3,
+    "df2": 429,
+    "n": 144
+  },
+  "barrier_corpus_n": 141,
+  "stance_substantive_n": 138,
+  "stance_anova": {
+    "n": 135,
+    "F": 17.76,
+    "df1": 2,
+    "df2": 132,
+    "p": 1.4793958483176633e-07,
+    "eta2": 0.212,
+    "kruskal_H": 24.8,
+    "kruskal_p": 4.111209504036149e-06,
+    "group_means": {
+      "conditional": 3.41,
+      "dependency": 2.772,
+      "innovation": 3.549
+    },
+    "group_n": {
+      "conditional": 72,
+      "dependency": 28,
+      "innovation": 35
+    }
+  },
+  "stance_uncodable_n": 10,
+  "calibration": {
+    "T4": {
+      "n": 140,
+      "OR_PC": 1.59,
+      "p_PC": 0.2145,
+      "pseudo_r2": 0.014
+    },
+    "T2": {
+      "n": 140,
+      "OR_PC": 1.81,
+      "p_PC": 0.0318,
+      "pseudo_r2": 0.051
+    }
+  }
+}
